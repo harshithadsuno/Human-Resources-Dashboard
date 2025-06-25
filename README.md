@@ -80,7 +80,7 @@ Before building the dashboard, I created layout mockups using draw.io to structu
 
 ## 🔗 View Dashboard Live
 
-👉 [Click here to explore the interactive dashboard on Tableau Public]((https://public.tableau.com/app/profile/harshitha.d.s/viz/HRDashboard_17504500359190/HRDashboardSummary))
+👉 [Click here to explore the interactive dashboard on Tableau Public](https://public.tableau.com/app/profile/harshitha.d.s/viz/HRDashboard_17504500359190/HRDashboardSummary)
 
 ---
 
