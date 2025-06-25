@@ -25,7 +25,7 @@ Includes:
 - **Location Split: HQ vs Branch (70% vs 30%)**
 
 📸 *Dashboard Visual*  
-![Overview Section](images/overview.png)
+![Overview Section](Images/Overview.png)
 
 ---
 
