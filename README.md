@@ -24,8 +24,6 @@ Includes:
 - **Departmental & Job Title Breakdown**
 - **Location Split: HQ vs Branch (70% vs 30%)**
 
-📸 *Dashboard Visual*  
-
 ## 2️⃣ Demographics
 
 Breaks down workforce composition by key demographic variables.
