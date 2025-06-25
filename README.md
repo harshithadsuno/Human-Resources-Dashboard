@@ -25,9 +25,6 @@ Includes:
 - **Location Split: HQ vs Branch (70% vs 30%)**
 
 📸 *Dashboard Visual*  
-![Overview Section](Images/Overview.png)
-
----
 
 ## 2️⃣ Demographics
 
@@ -37,9 +34,6 @@ Breaks down workforce composition by key demographic variables.
 - **Gender Ratio**: Clear male/female distribution with % labels
 - **Age Grouping**: Logical bins like `<25`, `25–34`, etc.
 - **Education Levels**: Analyzed independently and in combination with performance scores
-
-📸 *Demographics Visual*  
-![Demographics Section](images/demographics.png)
 
 ---
 
@@ -52,10 +46,10 @@ Uncovers trends and disparities in employee compensation.
 - **Salary by Age within Each Department**
 - **Performance Ratings vs Education (Bubble Chart)**
 
-📸 *Income Analysis Visual*  
-![Income Analysis Section](images/income_analysis.png)
-
 ---
+
+📸 *Dashboard Visual*  
+![Overview Section](Images/Overview.png)
 
 ## 4️⃣ Interactive Employee Records
 
