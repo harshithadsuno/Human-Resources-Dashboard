@@ -74,7 +74,7 @@ Includes **filters for**:
 Before building the dashboard, I created layout mockups using draw.io to structure my thinking and ensure visual hierarchy.
 
 📸 *Wireframe / Layout Sketch*  
-![Mockup](mockups/hr_dashboard_mockup.png)
+![Mockup](Images/draw.io_mockup.png)
 
 ---
 
