@@ -65,7 +65,7 @@ Includes **filters for**:
 - Hiring Year, and more
 
 📸 *Employee Table View*  
-![Employee Table](images/employee_table.png)
+![Employee Table](Images/Employee_Details.png)
 
 ---
 
